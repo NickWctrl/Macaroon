@@ -6,7 +6,7 @@
     "type": "offline"
   },
   "server": {
-    "ip": "CrownspireTeam.aternos.me:33470",
+    "ip": "CrownspireTeam.aternos.me",
     "port": 33470,
     "version": "",
     "try-creative": false
